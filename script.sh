@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello"
+echo "Hello this is new commit"
